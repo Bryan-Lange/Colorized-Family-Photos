@@ -4,6 +4,7 @@
 ---
 
 - This project aims to use neural networks to add color to old family photos
+- Secondary aim is to add personal logo to photos 
 
 
 
